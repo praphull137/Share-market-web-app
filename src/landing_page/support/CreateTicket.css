@@ -1,0 +1,19 @@
+a {
+    text-decoration: none;
+    color: "blue";
+  }
+  
+  a:hover {
+    text-decoration: none;
+    color: grey;
+  }
+
+  h3{
+    
+    color: "black";
+  }
+  h3:hover {
+    text-decoration: none;
+    color: rgba(43, 96, 231, 0.733);
+    cursor: pointer;
+  }
